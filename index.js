@@ -1,0 +1,1 @@
+export {lottery} from './lib/lottery'
